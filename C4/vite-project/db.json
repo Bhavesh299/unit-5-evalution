@@ -1,0 +1,630 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "pass": "1234",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "username": "John Doe",
+      "pass": "0000",
+      "role": "client"
+    },
+    {
+      "id": 3,
+      "username": "Allan Doe",
+      "pass": "4444",
+      "role": "client"
+    },
+    {
+      "id": 4,
+      "username": "Adam Smith",
+      "pass": "5555",
+      "role": "client"
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 5
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 6
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 7
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 8
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 9
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 10
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 11
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 12
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 13
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 14
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 15
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 16
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 17
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 18
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 19
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 20
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 21
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 22
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 23
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 24
+    },
+    {
+      "id": 25
+    },
+    {
+      "id": 26
+    },
+    {
+      "id": 27
+    },
+    {
+      "id": 28
+    },
+    {
+      "id": 29
+    },
+    {
+      "id": 30
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 31
+    },
+    {
+      "id": 32
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 33
+    },
+    {
+      "id": 34
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 35
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 36
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 37
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 38
+    },
+    {
+      "id": 39
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 40
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 41
+    },
+    {
+      "id": 42
+    },
+    {
+      "id": 43
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 44
+    },
+    {
+      "id": 45
+    },
+    {
+      "id": 46
+    },
+    {
+      "id": 47
+    },
+    {
+      "id": 48
+    },
+    {
+      "id": 49
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 50
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 51
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 52
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 53
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 54
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 55
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 56
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 57
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 58
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 59
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 60
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 61
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 62
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 63
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 64
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 65
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 66
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 67
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 68
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 69
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 70
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 71
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 72
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 73
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 74
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 75
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 76
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 77
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 78
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 79
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 80
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 81
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 82
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 83
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 84
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 85
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 86
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 87
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 88
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 89
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 90
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 91
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 92
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 93
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 94
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 95
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 96
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 97
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 98
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 99
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 100
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 101
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 102
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 103
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 104
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 105
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 106
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 107
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 108
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 109
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 110
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 111
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 112
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 113
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "problem": "OS upgrade",
+      "owner_name": "John Doe",
+      "brand": "MSI",
+      "cost": 206.94,
+      "status": "Done"
+    },
+    {
+      "id": 2,
+      "problem": "webcam not working",
+      "owner_name": "Allan Doe",
+      "brand": "Lenovo",
+      "cost": 344.15,
+      "status": "Pending"
+    },
+    {
+      "id": 3,
+      "problem": "SSD upgrade",
+      "owner_name": "John Doe",
+      "brand": "MSI",
+      "cost": 310.45,
+      "status": "In Progress"
+    },
+    {
+      "id": 4,
+      "problem": "webcam not working",
+      "owner_name": "Allan Doe",
+      "brand": "MacBook Pro",
+      "cost": 421.46,
+      "status": "Pending"
+    },
+    {
+      "id": 5,
+      "problem": "keyboard not working",
+      "owner_name": "Adam Smith",
+      "brand": "ThinkPad",
+      "cost": 460.86,
+      "status": "Done"
+    },
+    {
+      "id": 6,
+      "problem": "SSD upgrade",
+      "owner_name": "John Doe",
+      "brand": "MacBook Pro",
+      "cost": 393.37,
+      "status": "In Progress"
+    },
+    {
+      "id": 7,
+      "problem": "SSD upgrade",
+      "owner_name": "Adam Smith",
+      "brand": "HP",
+      "cost": 475,
+      "status": "Done"
+    },
+    {
+      "id": 8,
+      "problem": "webcam not working",
+      "owner_name": "Allan Doe",
+      "brand": "MacBook Pro",
+      "cost": 479.83,
+      "status": "Done"
+    },
+    {
+      "id": 9,
+      "problem": "overheating",
+      "owner_name": "Adam Smith",
+      "brand": "MSI",
+      "cost": 309.07,
+      "status": "Done"
+    },
+    {
+      "id": 10,
+      "problem": "webcam not working",
+      "owner_name": "Adam Smith",
+      "brand": "HP",
+      "cost": 257.42,
+      "status": "In Progress"
+    },
+    {
+      "problem": "test",
+      "brand": "1",
+      "owner_name": "John Doe",
+      "status": "Not Accepted",
+      "id": 11
+    }
+  ]
+}
