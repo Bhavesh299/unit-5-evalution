@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    #submit{
+        height:50px;
+        width:150px;
+        background-color: rgb(175, 202, 19) ;
+        border-radius: 5px;
+        margin-left:47%;
+        margin-top: 100px;
+    }
+    
+    #div{
+        font-size: 40px;
+        margin-left: 40%;
+        margin-top: 50px;
+    }
+    
+</style>
+<body>
+    <button id="submit">Click Me</button>
+    <div id="div"></div>
+    
+</body>
+</html>
+<script>
+
+    const throttle = (fun,delay) => {
+         var count = 0 ;
+          return (...argument) => {
+              
+              const now = new Date().getTime();
+              if(now-count < delay){
+                  return;
+              }
+              count = now ;
+              return fun(...argument);
+          }
+    }
+
+  var i=0;
+
+    document.getElementById("submit").addEventListener("click", throttle((e)=> {
+        
+        var point = " Try Something New...";
+       
+        i++ ;
+        
+        document.querySelector("#div").innerHTML= i + " " + point ;
+       
+        localStorage.setItem("value" , point) ;
+
+    },3400));
+</script>
