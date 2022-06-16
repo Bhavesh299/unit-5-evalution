@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+   
+
+</head>
+<style>
+    body{
+        background-color: #e6e940;
+        
+    }
+    #container{
+        height:500px ;
+        width:97% ;
+        background-color: #fff;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        padding: 20px;
+        border-radius: 10px;
+      }
+    h1 {
+        text-align: center;
+        font-size: 50px;
+        color: #fff;
+        background-color: #4CAF50;
+        padding: 20px;
+    }
+   
+
+</style>
+<body>
+    <h1>GOOGLE MAP</h1>
+    <div id="container"></div>
+</body>
+</html>
+
+<script>
+    let data = [{ lat: 21.045521, lng: 75.801094 },{ lat:21.004194, lng: 75.563942 },{ lat:18.516726 , lng: 73.856255},{ lat:19.076009,lng:72.877426}]
+    function initMap() {
+       
+  const map = new google.maps.Map(document.getElementById("container"), {
+    zoom: 7 ,
+    center: {lat: 21.045521, lng: 75.801094}
+  });
+
+  const marker = data.map(function(location, i) {
+    return new google.maps.Marker({
+      position: location,
+      label: i.toString(),
+      map: map
+    });
+  });
+}
+</script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB4IoHC29oJ3cT8j1XmWsIZEnwvmMiNRDw&callback=initMap&v=weekly"></script>
